@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **ASP.Net,JavaScript,HTMl,CSS**
 
-- 📫 How to reach me **hkgurjar2697@gmail.com**
+- 📫 How to reach me **hvgurjar1@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
